@@ -1,0 +1,2 @@
+rootProject.name = "FFMPEG_PCM_2_MP3"
+include ':app'
